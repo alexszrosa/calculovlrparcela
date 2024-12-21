@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Cálculo do Valor do tratamento")
+st.title("Cálculo do Valor do Tratamento")
 
 st.divider()
 
